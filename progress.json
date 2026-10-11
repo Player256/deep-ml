@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-11T03:12:57.252Z",
+  "items": {
+    "problem:1214": {
+      "kind": "problem",
+      "id": "1214",
+      "title": "Per-Token Decode Latency from Memory Bandwidth",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1214",
+      "path": "problems/1214-per-token-decode-latency-from-memory-bandwidth",
+      "first_solved_at": "2026-10-11T03:12:53.372Z",
+      "last_pushed_at": "2026-10-11T03:12:53.372Z",
+      "language": "python",
+      "lines": 11
+    }
+  }
+}
