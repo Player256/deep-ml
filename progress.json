@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T07:13:15.594Z",
+  "generated_at": "2026-10-31T07:30:01.296Z",
   "items": {
     "problem:1214": {
       "kind": "problem",
@@ -145,6 +145,17 @@
       "path": "math/0133-attention-as-a-soft-dictionary-lookup",
       "first_solved_at": "2026-10-31T07:13:14.987Z",
       "last_pushed_at": "2026-10-31T07:13:14.987Z"
+    },
+    "math:134": {
+      "kind": "math",
+      "id": "134",
+      "title": "Scaled Dot-Product Variance: Why Divide by the Square Root of d",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/134",
+      "path": "math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d",
+      "first_solved_at": "2026-10-31T07:29:59.298Z",
+      "last_pushed_at": "2026-10-31T07:29:59.298Z"
     }
   }
 }
