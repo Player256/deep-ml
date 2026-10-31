@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:49:58.284Z",
+  "generated_at": "2026-10-31T04:56:44.807Z",
   "items": {
     "problem:1214": {
       "kind": "problem",
@@ -79,6 +79,17 @@
       "path": "math/0006-optimization-convexity-and-critical-points",
       "first_solved_at": "2026-10-31T04:49:57.617Z",
       "last_pushed_at": "2026-10-31T04:49:57.617Z"
+    },
+    "math:130": {
+      "kind": "math",
+      "id": "130",
+      "title": "Why Minibatches: Gradient Variance vs Batch Size",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/130",
+      "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
+      "first_solved_at": "2026-10-31T04:56:44.244Z",
+      "last_pushed_at": "2026-10-31T04:56:44.244Z"
     }
   }
 }
