@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T07:30:01.296Z",
+  "generated_at": "2026-10-31T11:38:07.631Z",
   "items": {
     "problem:1214": {
       "kind": "problem",
@@ -156,6 +156,17 @@
       "path": "math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d",
       "first_solved_at": "2026-10-31T07:29:59.298Z",
       "last_pushed_at": "2026-10-31T07:29:59.298Z"
+    },
+    "math:230": {
+      "kind": "math",
+      "id": "230",
+      "title": "Why Scale by sqrt(d_k)",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/230",
+      "path": "math/0230-why-scale-by-sqrt-d-k",
+      "first_solved_at": "2026-10-31T11:38:06.833Z",
+      "last_pushed_at": "2026-10-31T11:38:06.833Z"
     }
   }
 }
