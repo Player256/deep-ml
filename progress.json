@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:56:44.807Z",
+  "generated_at": "2026-10-31T05:07:44.782Z",
   "items": {
     "problem:1214": {
       "kind": "problem",
@@ -90,6 +90,17 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-10-31T04:56:44.244Z",
       "last_pushed_at": "2026-10-31T04:56:44.244Z"
+    },
+    "math:131": {
+      "kind": "math",
+      "id": "131",
+      "title": "Variance Preservation and He/Glorot Scaling",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/131",
+      "path": "math/0131-variance-preservation-and-he-glorot-scaling",
+      "first_solved_at": "2026-10-31T05:07:43.916Z",
+      "last_pushed_at": "2026-10-31T05:07:43.916Z"
     }
   }
 }
