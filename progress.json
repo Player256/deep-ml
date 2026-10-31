@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:43:59.496Z",
+  "generated_at": "2026-10-31T04:46:51.553Z",
   "items": {
     "problem:1214": {
       "kind": "problem",
@@ -57,6 +57,17 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-10-31T04:43:58.905Z",
       "last_pushed_at": "2026-10-31T04:43:58.905Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-31T04:46:50.940Z",
+      "last_pushed_at": "2026-10-31T04:46:50.940Z"
     }
   }
 }
