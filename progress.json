@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:33:36.813Z",
+  "generated_at": "2026-10-31T06:48:53.903Z",
   "items": {
     "problem:1214": {
       "kind": "problem",
@@ -112,6 +112,17 @@
       "path": "math/0132-adam-bias-correction",
       "first_solved_at": "2026-10-31T05:33:35.982Z",
       "last_pushed_at": "2026-10-31T05:33:35.982Z"
+    },
+    "math:116": {
+      "kind": "math",
+      "id": "116",
+      "title": "Convolution Arithmetic and Parameter Sharing",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/116",
+      "path": "math/0116-convolution-arithmetic-and-parameter-sharing",
+      "first_solved_at": "2026-10-31T06:48:52.886Z",
+      "last_pushed_at": "2026-10-31T06:48:52.886Z"
     }
   }
 }
