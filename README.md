@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 1 problems · 0 labs · 10 math
+**12** solved · 1 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-31 | [solution](math/0003-neural-network-derivatives) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-31 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-10-31 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
+| [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-10-31 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
 
 ---
 
