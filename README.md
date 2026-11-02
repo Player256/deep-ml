@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 1 problems · 0 labs · 15 math
+**17** solved · 1 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-31 | [solution](math/0005-gradient-descent-updates) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-31 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Adam Bias Correction](https://www.deep-ml.com/math-problems/132) | medium | 2026-10-31 | [solution](math/0132-adam-bias-correction) |
+| [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-11-02 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-31 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Convolution Arithmetic and Parameter Sharing](https://www.deep-ml.com/math-problems/116) | medium | 2026-10-31 | [solution](math/0116-convolution-arithmetic-and-parameter-sharing) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-31 | [solution](math/0002-multivariate-calculus) |
