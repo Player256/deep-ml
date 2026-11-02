@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 1 problems · 0 labs · 14 math
+**16** solved · 1 problems · 0 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-10-31 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
+| [Bytes in the KV Cache (MHA, GQA, MQA, MLA)](https://www.deep-ml.com/math-problems/62) | easy | 2026-11-02 | [solution](math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-31 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-31 | [solution](math/0005-gradient-descent-updates) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-31 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
