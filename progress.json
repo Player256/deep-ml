@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T05:43:08.818Z",
+  "generated_at": "2026-11-17T06:00:49.635Z",
   "items": {
     "problem:1214": {
       "kind": "problem",
@@ -222,6 +222,17 @@
       "path": "math/0068-prefix-cache-hit-rate-and-ttft",
       "first_solved_at": "2026-11-17T05:43:07.036Z",
       "last_pushed_at": "2026-11-17T05:43:07.036Z"
+    },
+    "math:65": {
+      "kind": "math",
+      "id": "65",
+      "title": "Speculative Speedup as a Geometric Series",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/65",
+      "path": "math/0065-speculative-speedup-as-a-geometric-series",
+      "first_solved_at": "2026-11-17T06:00:47.389Z",
+      "last_pushed_at": "2026-11-17T06:00:47.389Z"
     }
   }
 }
