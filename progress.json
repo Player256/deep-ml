@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T06:00:49.635Z",
+  "generated_at": "2026-11-17T12:20:39.271Z",
   "items": {
     "problem:1214": {
       "kind": "problem",
@@ -233,6 +233,17 @@
       "path": "math/0065-speculative-speedup-as-a-geometric-series",
       "first_solved_at": "2026-11-17T06:00:47.389Z",
       "last_pushed_at": "2026-11-17T06:00:47.389Z"
+    },
+    "math:66": {
+      "kind": "math",
+      "id": "66",
+      "title": "Online Softmax: Running Max and Correction",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/66",
+      "path": "math/0066-online-softmax-running-max-and-correction",
+      "first_solved_at": "2026-11-17T12:20:38.306Z",
+      "last_pushed_at": "2026-11-17T12:20:38.306Z"
     }
   }
 }
